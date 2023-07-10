@@ -1,0 +1,85 @@
+﻿Variable source;Variable correspondante
+Yield CAS t.ha-1;stem crop yield fm t.ha-1
+Sugar CAS %;stem sugar fm content %
+IFTH;Herbicide application frequence index
+Rec globale plein %;plant ground cover %
+Rec globale R %;plant ground cover %
+Rec globale IR %;plant ground cover %
+Rec adv plein %;plant ground cover %
+Rec adv R %;plant ground cover %
+Rec adv IR %;plant ground cover %
+Rec pds plein %;plant ground cover %
+Rec pds R %;plant ground cover %
+Rec pds IR %;plant ground cover %
+Cov end weed %;plant ground cover %
+Cov rate weed %.d-1;plant ground cover %
+Cov eff weed 0-1;plant ground cover %
+Cov end CP1 %;plant ground cover %
+Cov eff CP1 0-1;plant ground cover %
+Cov rate CP1 %.d-1;plant rate increase ground cover %.d-1
+Cov end CP2 %;plant ground cover %
+Cov eff CP2 0-1;plant ground cover %
+Cov rate CP2 %.d-1;plant rate increase ground cover %.d-1
+H rate CP1 cm.d-1;plant apex height cm
+Leaf rate CP1 leaf/d;plant leaf appearance rate n.d-1
+H rate CP2 cm/d;plant apex height cm
+Leaf rate CP2 leaf/d;plant leaf appearance rate n.d-1
+DM end weed kg/m²;abv crop yield dm t.ha-1
+DM end CP1 kg/m²;abv crop yield dm t.ha-1
+DM end CP2 kg/m²;abv crop yield dm t.ha-1
+WCE cov 0-1;weed control efficiency ground cover
+WCE dm 0-1;weed control efficiency dry mass
+ABV FM t.ha-1;abv crop yield fm t.ha-1
+ABV DM t.ha-1;abv crop yield dm t.ha-1
+Height cm;plant apex height cm
+Number of leaves n;leaf nb.plant-1
+Emergence d;seed emergence 50% DAP
+Flowering d;plant flowering 50% DAP
+Fructification d;plant fructification 50% DAP
+Emerg SDD °d;seed emergence 50% sdd °C.d
+Flo SDD °d;plant flowering 50% sdd °C.d
+Fru SDD °d;plant fructification 50% sdd °C.d
+ABV cov 0-1;plant ground cover %
+Cov max perc %;plant max ground cover %
+Height max cm ;plant max height cm
+RUE gMJ;abv radiation use efficiency g.MJ-1
+Tmean °C;air temp avg day °C
+H gr cmd;plant rate increase height cm.d-1
+Leaf rate nd;plant leaf appearance rate n.d-1
+ABV dm kgm2;abv max dm t.ha-1
+Leaf ratio kg.kg-1;leaf to abv dm ratio kg.kg-1
+ABV HUM perc %;abv plant wc %
+TDM kgm2 ;abv crop yield dm t.ha-1
+LR kg.kg-1;leaf to abv dm ratio kg.kg-1
+HUM perc %;abv plant wc %
+Cov perc  %;plant ground cover %
+Cov  %;plant ground cover %
+expect yield t.ha-1;stem crop yield fm t.ha-1
+nb input ferti;nb fertilization application
+quant N ferti kgN.ha-1;ferti N app rate kg.ha-1
+quant P2O5 ferti kgP205.ha-1;ferti P app rate kg.ha-1
+quant K20 ferti kgK2O.ha-1;ferti K app rate kg.ha-1
+quant amendment app kg.ha-1;soil enricher app rate kg.ha-1
+pH H2O soil;soil pH H2O
+pH KCl soil;soil pH KCl
+N dumas soil g.kg-1 MS 105°C;soil org N content g.kg-1
+C orga soil g.kg-1 MS 105°C;soil org C content g.kg-1
+P odabin soil mg.kg-1 MS 105°C;soil P content g.kg-1
+CEC soil mé/100g MS 105°C;soil CEC dm cmol.kg-1
+Ca sample soil mé/100g MS 105°C;soil exchange Ca cmol.kg-1
+Mg sample soil mé/100g MS 105°C;soil exchange Mg cmol.kg-1
+K sample soil mé/100g MS 105°C;soil exchange K cmol.kg-1
+Na sample soil mé/100g MS 105°C;soil exchange Na cmol.kg-1
+N dumas DF g.kg-1 MS 105°C;leaf N content g.kg-1
+P tot DF g.kg-1 MS 105°C;leaf P content g.kg-1
+K tot DF g.kg-1 MS 105°C;leaf K content g.kg-1
+Ca tot DF g.kg-1 MS 105°C;leaf Ca content g.kg-1
+Mg tot DF g.kg-1 MS 105°C;leaf Mg content g.kg-1
+C tot DF g.kg-1 MS 105°C;leaf C content g.kg-1
+weight tot kg;abv plant dm.kg
+tcha t.ha-1;stem crop yield fm t.ha-1
+fib %;stem fiber fm content %
+pur %;stem juice purity %
+tsha %;stem sucrose fm content %
+nb stem;stem nb.m-2
+htvd cm;plant TVD height cm
